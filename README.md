@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DvirHayat
 - 👀 I’m interested in Python Development, Data and in the future ML.  
-- 🌱 I’m currently learning Python, C and Data structers and algorithms (Software Eng. courses as part of my degree sylabus).
+- 🌱 I’m currently learning Python, C and Data structers and algorithms (Software Eng. courses as part of my degree syllabus).
 - 💞️ I’m looking to collaborate on Data Projects with intresting impact.
 - 📫 How to reach me :dvir.chayat@gmail.com
 
